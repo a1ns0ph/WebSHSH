@@ -20,4 +20,5 @@ Installation:</br>
 3. Ensure that your apache user has read and write access to the required directories (SHSH and ZIP)</br>
 4. Go to the webpage and try it out!</br>
 
-If you have any issues, please open an issue on GitHub (www.github.com/eob2000/WebSHSH)
+If you have any issues, please open an issue on GitHub (www.github.com/eob2000/WebSHSH)</br>
+Fully functional version on my website: www.eobnet.tk/shsh
